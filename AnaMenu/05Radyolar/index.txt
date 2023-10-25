@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Turis Tv</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Playfair+Display:700|Raleway:500.700'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+
+ 
+
+
+<style type="text/css">
+body
+{
+background-image:url('Turis1.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+</style>
+</head>
+ 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://api.whatsapp.com/send?phone=32486790423&text=Nasil Yardimci Olabilirim . " class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
+
+
+
+
+
+<body>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!-- partial:index.partial.html -->
+<h1 class="title"></h1>
+
+
+
+
+
+
+<div id="app" class="container">
+  <card data-image="sTuris1.jpg"><a href="Iptv/index.html">
+</a> <h1 slot="header">  <a href="https://radio.garden/visit/duezce/tgdkyBss"><div style="color:#FBFBFF;">Dünya Radyo</div> <a href="https://radio.garden/visit/duezce/tgdkyBss"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+  <card data-image="sTuris1.jpg">
+ <h1 slot="header">  <a href="https://crd.web.tr/baba-radyo.html"><div style="color:#FBFBFF;">Radyo 1</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+  <card data-image="sTuris1.jpg">
+ <h1 slot="header">  <a href="http://37.247.98.8/stream/166/"><div style="color:#FBFBFF;">Radyo 2</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+  <card data-image="sTuris1.jpg">
+ <h1 slot="header">  <a href="https://www.canliradyodinle.fm/baba-radyo-105-6-dinle.html"><div style="color:#FBFBFF;">Radyo 3</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+  <card data-image="sTuris1.jpg">
+ <h1 slot="header">  <a href="https://www.canliradyodinle.live/tum-radyolar/"><div style="color:#FBFBFF;">Radyo 4</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+
+  <card data-image="sTuris1.jpg">
+ <h1 slot="header">  <a href="https://canliradyodinle.gen.tr/akrafm.htm"><div style="color:#FBFBFF;">Radyo 5</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+  <card data-image="sTuris1.jpg">
+ <h1 slot="header">  <a href="https://www.onlineradyo.biz/damar-fm/"><div style="color:#FBFBFF;">Radyo 6</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+
+  
+
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.1/vue.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
