@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Turis Tv</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Playfair+Display:700|Raleway:500.700'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+
+ 
+
+
+<style type="text/css">
+body
+{
+background-image:url('Turis.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+</style>
+</head>
+ 
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://api.whatsapp.com/send?phone=32486790423&text=Nasil Yardimci Olabilirim . " class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
+
+
+
+
+
+
+
+<body>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!-- partial:index.partial.html -->
+<h1 class="title"></h1>
+
+
+
+
+
+
+<div id="app" class="container">
+  <card data-image="Turis2.jpg"><a href="Iptv/index.html">
+</a> <h1 slot="header">  <a href="soz/index.html"><div style="color:#FBFBFF;">Söz</div> <a href="soz/index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+  <card data-image="kurulusosman/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.atv.com.tr/kurulus-osman/bolumler"><div style="color:#FBFBFF;">Kurulus Osman</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+
+  <card data-image="Filinta/Turis1.jpeg">
+ <h1 slot="header">  <a href="https://www.dizimom.pro/diziler/filinta-izle/"><div style="color:#FBFBFF;">Filinta</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+  <card data-image="mugeanli/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.atv.com.tr/muge-anli-ile-tatli-sert"><div style="color:#FBFBFF;">Müge Anlı</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+  <card data-image="aldatmak/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.atv.com.tr/aldatmak/bolumler"><div style="color:#FBFBFF;">Aldatmak</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+  <card data-image="alsancak/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.ddizi.pro/diziler/1968/al-sancak-son-bolum-izle"><div style="color:#FBFBFF;">Alsancak</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+
+  <card data-image="alparslan/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.ddizi.pro/diziler/1894/alparslan-buyuk-selcuklu-1-son-bolum-izle"><div style="color:#FBFBFF;">Alparslan</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+  <card data-image="erdogan/Turis1.jpg">
+ <h1 slot="header">  <a href="https://ok.ru/videoembed/26335251073"><div style="color:#FBFBFF;">Erdogan</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+
+
+  <card data-image="diziler/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.trdiziizle.co/tum-bolumler/"><div style="color:#FBFBFF;">Karisik Diziler</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+  <card data-image="dirilisertugrul/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.youtube.com/playlist?list=PLtWlB2-EzLYUu1ntKSl0MRT2ZmwMBcwBa"><div style="color:#FBFBFF;">Dirilis Ertugrul</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+  </card>
+
+  <card data-image="ibretlikfilmler/Turis1.jpg">
+ <h1 slot="header">  <a href="https://www.izle7.com/kanal7/filmler"><div style="color:#FBFBFF;">Ibretlik Filmler</div> <a href="index.html"></a></h1> 
+    <p slot="content"> </p>
+
+
+
+
+ 
+
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.1/vue.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
