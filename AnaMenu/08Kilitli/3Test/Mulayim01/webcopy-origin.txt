@@ -1,0 +1,3652 @@
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\ajax\libs\jquery\1.4.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://fonts.googleapis.com/css?family=Nosifer+Caps
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/nosifercaps/v27/_6_4EDnqTuC2UfVkXB6TEtM1vwg3.ttf
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\s\nosifercaps\v27\_6_4EDnqTuC2UfVkXB6TEtM1vwg3.ttf
+Content Type: font/ttf
+
+Uri: http://geoloc15.whoaremyfriends.net/private/geocounter.php?compte=993266892985&base=geoloc15
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\private\geocounter.php
+Content Type: image/jpeg
+
+Uri: http://olala-porn.com/
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\index-1.htm
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://izle.canlitvlive.io/watch.php?tv=atv-hd
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-1.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=100
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-24.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=101
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-87.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=102
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-35.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=104
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-28.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=106
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-64.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=108
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-60.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=110
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-53.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=113
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-7.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=116
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-48.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=117
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-49.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=123
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-15.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=124
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-68.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=125
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-54.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=126
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-13.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=127
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-16.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=128
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-25.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=131
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-41.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=132
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-42.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=133
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-43.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=134
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-34.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=135
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-58.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=136
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-44.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=137
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-45.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=138
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-46.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=140
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-38.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=142
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-88.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=143
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-29.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=144
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-30.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=152
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-94.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=158
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-18.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=162
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-59.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=167
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-50.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=179
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-56.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=181
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-89.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=186
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-61.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=187
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-90.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=188
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-91.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=189
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-92.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=190
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-72.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=193
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-71.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=200
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-51.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=201
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-55.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=204
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-57.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=205
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-62.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=206
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-63.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=207
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-66.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=210
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-69.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=211
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-70.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=213
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-73.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=214
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-74.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=215
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-75.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=216
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-76.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=217
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-77.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=218
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-67.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=219
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-78.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=220
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-79.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=221
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-81.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=222
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-83.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=223
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-84.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=224
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-85.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=228
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-93.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=230
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-96.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=231
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-97.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=235
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-80.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=260
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-52.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=56
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-2.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=58
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-3.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=59
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-4.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=60
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-5.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=61
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-6.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=63
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=64
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-17.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=65
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-19.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=66
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-20.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=67
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-21.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=68
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-22.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=69
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-8.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=70
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-31.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=71
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-9.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=72
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-32.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=74
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-10.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=76
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-23.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=77
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-14.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=78
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-95.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=79
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-11.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=81
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-82.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=82
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-12.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=84
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-33.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=85
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-26.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=86
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-27.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=87
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-47.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=90
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-86.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=92
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-65.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=94
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-37.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=95
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-39.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=96
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-40.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/spor/spor/tv.html?id=https://www.canli.co/yayin/?player=2&kanal=97
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\tv-36.html
+Content Type: text/html
+
+Uri: http://saraydorf.de/tv/turk-tv/atv.htm?id=https://www.atv.com.tr/canli-yayin
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv\atv.htm
+Content Type: text/html
+
+Uri: http://st.chatango.com/js/gz/emb.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\js\gz\emb.js
+Content Type: application/x-javascript
+
+Uri: http://www.google.de/logos/Logo_60blk.gif
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\logos\Logo_60blk.gif
+Content Type: image/gif
+
+Uri: http://www.kanal35.com.tr/CanliYayin.aspx
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\CanliYayin.aspx
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\ajax\libs\jquery\1.4.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://assets.wallstreet-online.de/_shared/img/wallstreetonline.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\_shared\img\wallstreetonline.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/hls.js@1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\npm\hls.js@1
+Content Type: application/javascript
+
+Uri: https://dl.teamviewer.com/download/TeamViewerQS.exe
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\download\TeamViewerQS.exe
+Content Type: application/octet-stream
+
+Uri: https://eklenti.altin.in/altin.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\altin.js
+Content Type: text/javascript
+
+Uri: https://eklenti.altin.in/cvr.js?v=0.1&banka=serbest&fr=FFFFFF&g=120&b=1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\cvr.js
+Content Type: text/javascript
+
+Uri: https://eklenti.altin.in/doviz.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\doviz.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\external-embedding\embed-widget-mini-symbol-overview.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\external-embedding\embed-widget-single-quote.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\external-embedding\embed-widget-ticker-tape.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/banner/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\banner\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/banner/pix1.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\banner\pix1.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/beslenme.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\beslenme.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/bitkiler.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\bitkiler.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/burc.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\burc.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/burcdesk.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\burcdesk.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/clock/clock.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\clock\clock.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/a/clock/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\clock\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/clock/jquery.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\clock\jquery.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/a/clock/standard.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\clock\standard.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/a/de-hava.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\de-hava.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/desk.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\desk.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/desk2.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\desk2.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/dilceviri.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\dilceviri.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/gaste.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\gaste.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/gazete-baslik.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\gazete-baslik.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/google.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\google.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/image/aol.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\aol.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/bayraktr.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\bayraktr.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/burc.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\burc.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/bvg.gif
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\bvg.gif
+Content Type: image/gif
+
+Uri: https://saraydorf.de/a/image/dilceviri.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\dilceviri.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/ebay.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\ebay.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/facebook.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\facebook.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/gazetegiris.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\gazetegiris.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/gmx.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\gmx.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/googlemail.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\googlemail.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/habergiris.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\habergiris.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/hitabe.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\hitabe.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/hitabelink.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\hitabelink.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/o2.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\o2.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/outlook.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\outlook.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/pfeillinks.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\pfeillinks.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/radyo.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\radyo.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/image/radyo2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\radyo2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/ruya.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\ruya.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/shop/aldinord.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\aldinord.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/aldisud.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\aldisud.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/bauhaus.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\bauhaus.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/ca.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\ca.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/conrad.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\conrad.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/duo.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\duo.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/edeka.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\edeka.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/flamme.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\flamme.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/hammer.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\hammer.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/hit.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\hit.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/hoffmann.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\hoffmann.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/jubidu.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\jubidu.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/kaisers.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\kaisers.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/karstadt.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\karstadt.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/kaufda.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\kaufda.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/kaufland.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\kaufland.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/kodi.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\kodi.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/lidl.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\lidl.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/mediamarkt.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\mediamarkt.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/mobelkraft.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\mobelkraft.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/netto.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\netto.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/norma.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\norma.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/obi.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\obi.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/penny.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\penny.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/plus.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\plus.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/rahaus.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\rahaus.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/real.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\real.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/rewe.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\rewe.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/saturn.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\saturn.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/schlecker.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\schlecker.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/tchibo.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\tchibo.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shop/tom.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shop\tom.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/shops.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\shops.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/speedtest1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\speedtest1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/speedtest2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\speedtest2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/image/t-online.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\t-online.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/telefonbuch.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\telefonbuch.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/tiwitter.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\tiwitter.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/tv.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\tv.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/webmail.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\webmail.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/yahoo.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\yahoo.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/youtube.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\youtube.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/a/image/ytbmp3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\image\ytbmp3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/a/kanser.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\kanser.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/radyogo.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\radyogo.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/rueya.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\rueya.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/shop.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\shop.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/speedchecker.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\speedchecker.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/speeddesk.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\speeddesk.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/style.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\style.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/a/yerelgazete.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\yerelgazete.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/a/youtube.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\a\youtube.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/bayrak.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\bayrak.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/chat/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\chat\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/dizi/dizi/image/ada-masali.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ada-masali.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/adi-sevgi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\adi-sevgi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/adim-farah.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\adim-farah.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/afili-ask.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\afili-ask.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ah-nerede.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ah-nerede.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/aile.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\aile.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/akinci.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\akinci.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/akrep.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\akrep.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/al-sancak.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\al-sancak.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/aldatmak.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\aldatmak.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/alef.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\alef.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/alev-alev.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\alev-alev.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/alparslan.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\alparslan.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/annemizi-saklarken.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\annemizi-saklarken.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/annenin-sirridir-cocuk.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\annenin-sirridir-cocuk.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ariza.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ariza.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ask-aglatir.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ask-aglatir.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ask-mantik-intikam.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ask-mantik-intikam.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ask101.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ask101.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/askin-tarifi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\askin-tarifi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/askin-yolculugu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\askin-yolculugu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ates-kuslari.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ates-kuslari.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/atiye.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\atiye.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/avlu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\avlu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/aziz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\aziz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/azize.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\azize.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/baba.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\baba.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/babam-cok-degisti.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\babam-cok-degisti.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/babil.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\babil.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/baht-oyunu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\baht-oyunu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/balkan-ninnisi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\balkan-ninnisi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bambaska-biri.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bambaska-biri.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/baraj.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\baraj.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/barbaros-hayreddin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\barbaros-hayreddin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/barbaroslar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\barbaroslar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bas-belasi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bas-belasi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/basim-belada.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\basim-belada.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bay-yanlis.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bay-yanlis.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ben-bu-cihana-sigmazam.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ben-bu-cihana-sigmazam.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/benim-adim-melek.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\benim-adim-melek.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/benim-guzel-ailem.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\benim-guzel-ailem.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/benim-hayatim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\benim-hayatim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/benim-tatli-yalanim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\benim-tatli-yalanim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-deli-ruzgar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-deli-ruzgar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-kucuk-gun-isigi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-kucuk-gun-isigi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-litre-gozyasi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-litre-gozyasi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-peri-masali.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-peri-masali.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-umut-yeter.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-umut-yeter.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-zamanlar-cukurova.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-zamanlar-cukurova.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bir-zamanlar-kibris.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bir-zamanlar-kibris.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bozkir-arslani.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bozkir-arslani.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/bozkir.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\bozkir.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cam-tavanlar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cam-tavanlar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/camdaki-kiz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\camdaki-kiz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cati-kati-ask.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cati-kati-ask.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cocuk.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cocuk.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cocuklar-duymasin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cocuklar-duymasin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cocukluk.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cocukluk.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cop-adam.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cop-adam.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/cukur.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\cukur.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/darmaduman.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\darmaduman.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/dengi-dengine.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\dengi-dengine.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/destan.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\destan.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/dilek-tasi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\dilek-tasi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/dip.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\dip.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/dirilis.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\dirilis.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/dogdugun-ev-kaderindir.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\dogdugun-ev-kaderindir.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/donence.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\donence.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/dunya-hali.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\dunya-hali.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/duybeni.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\duybeni.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ego.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ego.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/el-kizi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\el-kizi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/elbet-bir-gun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\elbet-bir-gun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/erkenci-kus.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\erkenci-kus.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/eskiya-dunyaya-hukumdar-olmaz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\eskiya-dunyaya-hukumdar-olmaz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/evlilik-hakkinda-her-sey.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\evlilik-hakkinda-her-sey.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/fatma.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\fatma.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ferhat-ile-sirin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ferhat-ile-sirin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/fi-ci.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\fi-ci.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gecenin-ucunda.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gecenin-ucunda.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gel-dese-ask.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gel-dese-ask.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gelsin-hayat-bildigi-gibi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gelsin-hayat-bildigi-gibi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gencligim-eyvah.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gencligim-eyvah.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gizli-sakli.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gizli-sakli.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gonul-dagi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gonul-dagi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gul-masali.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gul-masali.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gulcemal.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gulcemal.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/gulumse-kaderine.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\gulumse-kaderine.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/guvercin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\guvercin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/guzel-gunler.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\guzel-gunler.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hakan-muhafiz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hakan-muhafiz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hakim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hakim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/halka.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\halka.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hayat-bugun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hayat-bugun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hayatimin-nesesi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hayatimin-nesesi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hayatimin-sansi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hayatimin-sansi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hekimoglu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hekimoglu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/her-yerde-sen.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\her-yerde-sen.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hercai.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hercai.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/hudutsuz-sevda.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\hudutsuz-sevda.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/icimizdeki-ates.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\icimizdeki-ates.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/icimizden-biri.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\icimizden-biri.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ikimizin-sirri.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ikimizin-sirri.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ikizler-memo-can.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ikizler-memo-can.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/isler-gucler.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\isler-gucler.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/istanbullu-gelin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\istanbullu-gelin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/iyi-aile-babasi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\iyi-aile-babasi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/iyi-gunde-kotu-gunde.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\iyi-gunde-kotu-gunde.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/iyilik.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\iyilik.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kader-baglari.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kader-baglari.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kadin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kadin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kagit-ev.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kagit-ev.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kahraman-babam.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kahraman-babam.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kalp-yarasi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kalp-yarasi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kanunsuz-topraklar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kanunsuz-topraklar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kara-tahta.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kara-tahta.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kardes-cocuklari.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kardes-cocuklari.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kardeslerim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kardeslerim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kasaba-doktoru.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kasaba-doktoru.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kazara-ask.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kazara-ask.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kefaret.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kefaret.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kendi-dusen-aglamaz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kendi-dusen-aglamaz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kimse-bilmez.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kimse-bilmez.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kirmizi-oda.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kirmizi-oda.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kismet.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kismet.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kizilcik-serbeti.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kizilcik-serbeti.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kizim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kizim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/koca-koca-yalanlar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\koca-koca-yalanlar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kralice.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kralice.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kursun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kursun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kurtlar-vadisi-pusu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kurtlar-vadisi-pusu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kurtlar-vadisi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kurtlar-vadisi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kurulus-osman.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kurulus-osman.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kusursuz-kiraci.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kusursuz-kiraci.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kuzey-yildizi-ilk-ask.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kuzey-yildizi-ilk-ask.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/kuzgun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\kuzgun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/leke.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\leke.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/mahkum.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\mahkum.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/marasli.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\marasli.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/maria-ile-mustafa.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\maria-ile-mustafa.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/masumiyet.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\masumiyet.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/masumlar-apartmani.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\masumlar-apartmani.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/maviye-surgun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\maviye-surgun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/mehmetcik.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\mehmetcik.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/menajerimi-ara.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\menajerimi-ara.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/misafir.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\misafir.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/mucize-doktor.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\mucize-doktor.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/mukemmel-eslesme.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\mukemmel-eslesme.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/nobet.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\nobet.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/o-kiz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\o-kiz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/oglum.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\oglum.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ogretmen.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ogretmen.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/omer.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\omer.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ramo.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ramo.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ruhun-duymaz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ruhun-duymaz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sadakatsiz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sadakatsiz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sahsiyet.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sahsiyet.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sampiyon.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sampiyon.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sana-soz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sana-soz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sefirin-kizi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sefirin-kizi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sen-anlat-karadeniz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sen-anlat-karadeniz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sen-cal-kapimi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sen-cal-kapimi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/seni-cok-bekledim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\seni-cok-bekledim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/seni-kalbime-sakladim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\seni-kalbime-sakladim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/seref-sozu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\seref-sozu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/seversin.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\seversin.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sevgili-gecmis.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sevgili-gecmis.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sevmek-zamani.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sevmek-zamani.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sipahi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sipahi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/sol-yanim.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\sol-yanim.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/son-dizi.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\son-dizi.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/dizi/dizi/image/son-nefesime-kadar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\son-nefesime-kadar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/son-yaz.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\son-yaz.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tacsiz-prenses.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tacsiz-prenses.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tek-yurek.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tek-yurek.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/teskilat.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\teskilat.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tetikcinin-oglu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tetikcinin-oglu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tombala.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tombala.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tozkoparan.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tozkoparan.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tozluyaka.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tozluyaka.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tutunamayanlar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tutunamayanlar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/tuzak.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\tuzak.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/uc-kiz-kardes.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\uc-kiz-kardes.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/uc-kurus.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\uc-kurus.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/uvey-anne.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\uvey-anne.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/uyanis.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\uyanis.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/uzak-sehrin-masali.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\uzak-sehrin-masali.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/veda-mektubu.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\veda-mektubu.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/vermem-seni-ellere.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\vermem-seni-ellere.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/videoaz.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\videoaz.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/dizi/dizi/image/vuslat.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\vuslat.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ya-cok-seversen.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ya-cok-seversen.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/ya-istiklal-ya-olum.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\ya-istiklal-ya-olum.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yabani.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yabani.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yalanci.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yalanci.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yalancilar-ve-mumlari.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yalancilar-ve-mumlari.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yali-capkini.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yali-capkini.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yalniz-kurt.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yalniz-kurt.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yarali-kuslar.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yarali-kuslar.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yargi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yargi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yasak-elma.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yasak-elma.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yaz-sarkisi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yaz-sarkisi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yeni-hayat.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yeni-hayat.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/youtube.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\youtube.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/dizi/dizi/image/yurek-cikmazi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yurek-cikmazi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yuz-yillik-mucize.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yuz-yillik-mucize.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/yuzlesme.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\yuzlesme.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/zalim-istanbul.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\zalim-istanbul.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/zemheri.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\zemheri.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/dizi/image/zumruduanka.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizi\image\zumruduanka.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/dizi/diziarsivi.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\diziarsivi.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/dizi/dizikategori.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\dizikategori.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/dizi/img/chrome.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\img\chrome.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/dizi/img/edge.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\img\edge.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/dizi/img/firefox.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\img\firefox.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/dizi/img/safari.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\img\safari.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/dizi/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\dizi\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/egitim/ebatv/
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\egitim\ebatv\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/egitim/ebatv/ebatv.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\egitim\ebatv\ebatv.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/egitim/ebatv/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\egitim\ebatv\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/egitim/ebatv/js/playerjs.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\egitim\ebatv\js\playerjs.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/egitim/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\egitim\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/favicon.ico
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://saraydorf.de/haber/dergi.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\haber\dergi.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/haber/gazeteler.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\haber\gazeteler.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/haber/haberler.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\haber\haberler.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/haber/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\haber\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/haber/style.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\haber\style.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/kontakt/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/kontakt/kontakt/admin.php?mod=captcha&func=get&tid=1698400331
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\kontakt\admin.php
+Content Type: image/png
+
+Uri: https://saraydorf.de/kontakt/kontakt/admin.php?mod=image&func=processing
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\kontakt\admin-1.php
+Content Type: image/gif
+
+Uri: https://saraydorf.de/kontakt/kontakt/brief.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\kontakt\brief.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/kontakt/kontakt/form.php
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\kontakt\form.php.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/kontakt/kontakt/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\kontakt\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/kontakt/kontakt/style.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\kontakt\kontakt\style.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/magazin/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\magazin\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/muzik/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\muzik\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/muzik/logo.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\muzik\logo.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/muzik/logo.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\muzik\logo.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/muzik/saraydorf-music.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\muzik\saraydorf-music.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/muzik/style.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\muzik\style.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/muzik/youtube.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\muzik\youtube.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/oyun/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\oyun\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/saglik/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\saglik\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/··/sínematv/image/sínema.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\··\sínematv\image\sínema.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/dailymotion.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\dailymotion.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/play.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\play.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/playerdailyjs.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\playerdailyjs.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/playerjs.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\playerjs.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/playstor.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\playstor.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema/js/yesilcam.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema\js\yesilcam.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/cinema1.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema1.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/cinema2.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema2.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/cinema3.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\cinema3.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/js/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema-18.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema-18.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema-salonu-1.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema-salonu-1.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema-salonu-1a.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema-salonu-1a.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema-salonu-2.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema-salonu-2.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema-salonu-2a.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema-salonu-2a.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema-tv.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema-tv.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/18+-2.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\18 -2.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/adulttv.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\adulttv.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/desk.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\desk.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/image/cats.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\cats.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/sinema/sinema/image/giris.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\giris.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/sinema/sinema/image/logo.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\logo.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/image/logo.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/sinema/sinema/image/logo2.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\logo2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/image/logo2.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\logo2.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/sinema/sinema/image/logo2a.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\image\logo2a.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/sinema/sinema/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play2.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play2.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play3.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play3.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play4.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play4.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play5.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play5.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play6.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play6.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play7.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play7.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play8.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play8.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/play9.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\play9.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/playerjs.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\playerjs.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/js/playertv.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\js\playertv.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/logosi.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\logosi.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/logosia.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\logosia.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/player/js/clappr.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\player\js\clappr.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/player/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\player\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/player/js/oynatici3.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\player\js\oynatici3.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/sinema/sinema/porn.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\porn.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/porntv-live.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\porntv-live.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/porntv.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\porntv.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv2.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv2.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv3.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv3.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv4.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv5.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv6.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv7.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/vodtv8.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\vodtv8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/sinema/sinema/youtube.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\sinema\youtube.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/sinema/yesilcam.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\sinema\yesilcam.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/··/futbol4.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\··\futbol4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/··/js/clappr.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\··\js\clappr.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/··/js/ftb2.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\··\js\ftb2.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/··/js/player.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\··\js\player.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/bugun-mac.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\bugun-mac.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/flash1/js/default.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\js\default.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/spor/flash1/js/default5.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\js\default5.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/flash1/js/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/flash1/player/?id=3030
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\player\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/flash1/player/cid.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\player\cid.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/flash1/player/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\player\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/flash1/player/engel.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\flash1\player\engel.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/haberler.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\haberler.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=beinsport2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=beinsport3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=beinsport4
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=beinsport5
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=maks1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=maks2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=smartspor
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=smartspor2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=ssport1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=ssport2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=tivibu2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=tivibu3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b1-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b11.htm?id=beinsport2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b2.htm?id=fatih1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b22.htm?id=taso1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\b22.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/js/b1.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\b1.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/b11.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\b11.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/b2.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\b2.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/b22.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\b22.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/net.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\net.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/pal.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\pal.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/player.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\player.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/taraf.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\taraf.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/vole.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\js\vole.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/net.htm?id=18
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\net.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayin1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinas
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb4
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb5
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinbm1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinbm2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-18.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-19.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex4
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-20.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex5
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-21.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex6
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-22.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinsmarts
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinsms2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinss
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinss2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintrtspor
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintv8
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintv85
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-17.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinzirve
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\pal-23.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayinas
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayint1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayint2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayint3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayintrtspor
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayintv8
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=yayintv85
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\taraf-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=bein-sports-1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=bein-sports-2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=bein-sports-3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=bein-sports-4
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=s-sport
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=s-sport2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=tivibu-spor-1
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=tivibu-spor-2
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=tivibu-spor-3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\play\vole-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/2ligkirmizi.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\2ligkirmizi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/3lig1gurub.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\3lig1gurub.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/3lig2gurub.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\3lig2gurub.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/3lig3gurub.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\3lig3gurub.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/canli.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\canli.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/spor/desk.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\desk.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/flash-bugun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\flash-bugun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/ptt1lig.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\ptt1lig.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/puantablosu.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\puantablosu.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/refresh.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\refresh.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/spor/skor.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\skor.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/spor-haber.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\spor-haber.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/sporhaber.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\sporhaber.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/sporhaber.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\sporhaber.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/superlig.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\superlig.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/vlc-bugun.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\spor\vlc-bugun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/sportv-flash.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\spor\sportv-flash.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/style.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\style.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/german-tv/
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/de-tv.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\de-tv.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/disney.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\disney.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/dmax.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\dmax.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/kabel1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\kabel1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/kabel1doku.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\kabel1doku.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/nick.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\nick.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/nitro.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\nitro.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/ntv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\ntv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/orf1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\orf1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/pro7.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\pro7.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/pro7maxx.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\pro7maxx.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/rtl.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\rtl.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/rtl2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\rtl2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/sat1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\sat1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/sat1gold.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\sat1gold.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/sixx.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\sixx.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/sport1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\sport1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/superrtl.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\superrtl.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/tele5.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\tele5.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/viva.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\viva.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/··/··/image/vox.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\··\··\image\vox.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/german-tv/german.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\german.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/german-tv/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/german-tv/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/german-tv/js/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/german-tv/logo2.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\logo2.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/german-tv/movie.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\german-tv\movie.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/tv/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/js/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/js/play-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\js\play-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/m3u-iptv/
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/m3u-iptv/css/browser.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\css\browser.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/m3u-iptv/css/controls.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\css\controls.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/m3u-iptv/css/epg.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\css\epg.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/m3u-iptv/css/style.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\css\style.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/m3u-iptv/images/iptv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\images\iptv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/m3u-iptv/js/controls.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\js\controls.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/m3u-iptv/js/epg.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\js\epg.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/m3u-iptv/js/lang-browser.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\js\lang-browser.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/m3u-iptv/js/lang.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\js\lang.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/m3u-iptv/js/main.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\m3u-iptv\js\main.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv/image/desk.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv\image\desk.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv/image/desk2.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv\image\desk2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv/image/saraydorf1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv\image\saraydorf1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv/image/saraydorf3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv\image\saraydorf3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv0/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv0\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv0/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv0\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv0/js/play-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv0\js\play-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/assets/mCSB_buttons.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\assets\mCSB_buttons.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/assets/preloader.gif
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\assets\preloader.gif
+Content Type: image/gif
+
+Uri: https://saraydorf.de/tv/turk-tv1/css/jquery.mCustomScrollbar.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\css\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/turk-tv1/css/lite-font-awesome.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\css\lite-font-awesome.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/turk-tv1/css/lite.css
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\css\lite.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/tv/turk-tv1/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saraydorf.de/tv/turk-tv1/fonts/fontawesome-webfont.eot?v=4.0.3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saraydorf.de/tv/turk-tv1/fonts/fontawesome-webfont.svg?v=4.0.3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://saraydorf.de/tv/turk-tv1/fonts/fontawesome-webfont.ttf?v=4.0.3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://saraydorf.de/tv/turk-tv1/fonts/fontawesome-webfont.woff?v=4.0.3
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/24tv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\24tv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/360tv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\360tv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/a2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\a2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/adatv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\adatv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/akillitv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\akillitv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/aksutv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\aksutv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/altastv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\altastv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/anadolutv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\anadolutv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/artitv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\artitv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/aspor.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\aspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/astv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\astv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/atv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\atv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/atvavrupa.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\atvavrupa.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/atvaz.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\atvaz.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/avtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\avtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/aztv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\aztv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/baharturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\baharturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/bbcearth.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\bbcearth.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beiniz.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beiniz.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsports1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsports1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsports2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsports2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsports3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsports3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsports4.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsports4.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsportshaber.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsportshaber.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsportsmax1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsportsmax1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beinsportsmax2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beinsportsmax2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/benguturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\benguturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beyaztv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beyaztv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/beykenttv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\beykenttv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/bloomberght.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\bloomberght.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/blukomedi.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\blukomedi.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/blutvaksiyon.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\blutvaksiyon.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/blutvcocuk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\blutvcocuk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/brt1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\brt1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/brt2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\brt2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/brt3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\brt3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/cantv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\cantv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/cartoonnetwork.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\cartoonnetwork.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/caytv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\caytv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/cbcsport.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\cbcsport.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/cbctv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\cbctv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/cemtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\cemtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ciftcitv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ciftcitv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/cnnturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\cnnturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/corumtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\corumtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/de/superrtl.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\de\superrtl.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/de/vox.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\de\vox.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/de/voxup.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\de\voxup.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/dehatv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\dehatv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/discoverychannel.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\discoverychannel.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/discoveryscience.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\discoveryscience.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/disneychannel.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\disneychannel.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/dmax.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\dmax.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/dreamtvturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\dreamtvturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/drt-denizli.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\drt-denizli.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/dunyatv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\dunyatv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ebatv-ilkokul.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ebatv-ilkokul.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ebatv-lise.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ebatv-lise.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ebatv-ortaokul.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ebatv-ortaokul.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/egeturktv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\egeturktv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/egetv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\egetv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ekoturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ekoturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/emtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\emtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ertsahtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ertsahtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ertv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ertv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/estv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\estv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/eurod.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\eurod.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/eurosport1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\eurosport1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/eurosport2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\eurosport2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/eurostar.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\eurostar.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/fbtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\fbtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/flashhaber.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\flashhaber.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/flashtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\flashtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/foxtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\foxtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/gaziantepolaytv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\gaziantepolaytv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/gstv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\gstv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/haberglobal.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\haberglobal.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/haberturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\haberturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/halktv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\halktv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/history.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\history.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/idmantv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\idmantv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/idx.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\idx.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/istanbultv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\istanbultv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal-avrupa.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal-avrupa.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal15.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal15.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal23.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal23.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal26.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal26.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal32.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal32.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal33.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal33.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal34.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal34.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal5.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal5.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal56.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal56.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal58.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal58.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal68.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal68.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal7.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal7.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanal7avrupa.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanal7avrupa.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanalb.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanalb.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanald.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanald.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanalfirat.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanalfirat.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanalt-kibris.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanalt-kibris.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanalt.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanalt.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanalurfa.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanalurfa.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kanalv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kanalv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kentturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kentturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kibrisgenctv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kibrisgenctv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kocaelitv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kocaelitv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kontv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kontv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/koytv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\koytv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kozatv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kozatv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/kralpoptv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\kralpoptv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/krt.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\krt.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ktv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ktv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/linetv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\linetv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/manisatv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\manisatv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/mavikaradeniztv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\mavikaradeniztv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/mercantv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\mercantv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/milyontv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\milyontv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/minikacocuk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\minikacocuk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/minikago.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\minikago.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/natgeo.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\natgeo.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/natgeowild.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\natgeowild.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/naturaltv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\naturaltv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ntv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ntv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/number1turk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\number1turk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ordutv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ordutv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/pamukkaletv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\pamukkaletv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/powertv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\powertv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/rumelitv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\rumelitv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sat7turk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sat7turk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/showmax.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\showmax.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/showturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\showturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/showtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\showtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sinema.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sinema.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sinematurk1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sinematurk1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sinematurk2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sinematurk2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sinematurk3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sinematurk3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/slowkaradeniztv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\slowkaradeniztv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sozcutv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sozcutv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sporsmart.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sporsmart.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sporsmart2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sporsmart2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sportstv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sportstv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/startv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\startv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/sun-rtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\sun-rtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/s_sport.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\s_sport.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/s_sport2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\s_sport2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tarimtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tarimtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tatlisestv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tatlisestv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/taytv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\taytv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tbmmtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tbmmtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tekrumeli.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tekrumeli.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tele1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tele1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tempotv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tempotv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/teve2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\teve2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tgrtbelgesel.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tgrtbelgesel.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tgrteu.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tgrteu.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tgrthaber.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tgrthaber.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tivi6.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tivi6.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tivibuspor.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tivibuspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tjk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tjk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tlc.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tlc.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tmbtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tmbtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tontv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tontv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trt1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trt1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trt2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trt2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtarapca.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtarapca.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtavaz.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtavaz.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtbelgesel.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtbelgesel.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtcocuk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtcocuk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trthaber.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trthaber.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtkurdi.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtkurdi.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtmuzik.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtmuzik.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtspor-yildiz.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtspor-yildiz.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtspor.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtspor3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtspor3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/trtturk.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\trtturk.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/turkhaber.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\turkhaber.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv100.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv100.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv2020.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv2020.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv264.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv264.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv35.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv35.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv4.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv4.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv41.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv41.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv5.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv5.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv52.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv52.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv8.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv8.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv85.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv85.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tv8int.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tv8int.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tvden.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tvden.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tvkayseri.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tvkayseri.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/tvnet.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\tvnet.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ucankustv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ucankustv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ulketv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ulketv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/ulusalkanal.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\ulusalkanal.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/vatantv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\vatantv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/vizyon58.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\vizyon58.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/vizyontv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\vizyontv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/yabantv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\yabantv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/yesilcamtv.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\yesilcamtv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/yesilcamtv1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\yesilcamtv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/yesilcamtv2.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\yesilcamtv2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/image/yesilcamtv3.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\image\yesilcamtv3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/tv/turk-tv1/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/froogaloop.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\froogaloop.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/hls.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\hls.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/jquery-3.2.1.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\jquery-3.2.1.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/jquery.scrollbar.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\jquery.scrollbar.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/play.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\play.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/playlist.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\playlist.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/screen.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\screen.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv1/js/vidsPlayer.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv1\js\vidsPlayer.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv2/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv2\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv2/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv2\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv2/js/play-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv2\js\play-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv3/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv3\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv3/js/play-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv3\js\play-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv4/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv4\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv4/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv4\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv4/js/play.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv4\js\play.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv4/js/playerjs.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv4\js\playerjs.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv5/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv5\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv5/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv5\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv5/js/jquery.min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv5\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv5/js/play-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv5\js\play-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv6/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv6\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv6/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv6\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv6/js/play-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv6\js\play-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv7/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv7\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv8/index.html
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv8\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv8/play/desk.htm
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv8\play\desk.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/tv/turk-tv8/play/js/ch-min.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv8\play\js\ch-min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv8/play/js/debug.js
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv8\play\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/tv/turk-tv8/play/saraydorf1.png
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\tv\turk-tv8\play\saraydorf1.png
+Content Type: image/png
+
+Uri: https://www.dwd.de/DWD/wetter/aktuell/deutschland/bilder/wx_deutschland.jpg
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\DWD\wetter\aktuell\deutschland\bilder\wx_deutschland.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supremocontrol.com/public/download/Supremo.exe
+File Name: C:\Users\mulay\Pictures\TTuris100\mulayim10\saraydorf.de\public\download\Supremo.exe
+Content Type: application/x-msdownload
+
