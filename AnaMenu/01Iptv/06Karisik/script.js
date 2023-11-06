@@ -30,6 +30,39 @@ var player = new Playerjs({
       file:
         "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
     },
+
+    {
+      title: "Atv2",
+      poster: "https://od.lk/s/OTFfMjc4NTU3OTRf/Yeniiii-removebg-preview.png",
+      type: "application/dash+xml",
+      file:
+        "http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/2296/index.m3u8"
+    },
+    {
+      title: "Atv3",
+      poster: "https://od.lk/s/OTFfMjc4NTU3OTRf/Yeniiii-removebg-preview.png",
+      type: "application/dash+xml",
+      file:
+        "http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/2296/index.m3u8"
+    },
+
+
+    
+    {
+      title: "Atv1",
+      poster: "https://od.lk/s/OTFfMjc4NTU3OTRf/Yeniiii-removebg-preview.png",
+      type: "application/dash+xml",
+      file:
+        "http://66.160.192.241/atvturk/index.m3u8"
+    },
+
+
+
+
+    
+
+
+    
     {
       title: "Show Tv",
       poster: "https://od.lk/s/OTFfMjc4NTU3OTRf/Yeniiii-removebg-preview.png",
