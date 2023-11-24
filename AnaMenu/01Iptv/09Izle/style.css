@@ -52,7 +52,7 @@ header li:active {
   height: fit-content;
   margin: auto;
   margin-top: 10px;
-  background-color: rgb(172, 172, 172);
+  background-color: rgb(110, 126, 158);
   padding-left: 1px;
   padding-right: 100px;
   padding-top: 10px;
@@ -60,9 +60,9 @@ header li:active {
   border-radius: 10px;
 }
 .canli-tv-div-text {
-  color: rgb(77, 77, 77);
+  color: rgb(255, 255, 255);
   font-weight: bold;
-  font-size: 15px;
+  font-size: 18px;
   margin-bottom: 2vh;
   opacity: 0.7;
 }

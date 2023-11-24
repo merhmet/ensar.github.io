@@ -14,12 +14,8 @@ const haberlink = document.createElement("a");
 const sporlink = document.createElement("a");
 const belgesellink = document.createElement("a");
 
-canliTvlink.innerText = "Canlı TV";
-haberlink.innerText = "Haber";
-sporlink.innerText = "Spor";
-belgesellink.innerText = "Belgesel";
 
-document.body.appendChild(header);
+
 
 header.appendChild(navbarDiv)
 navbarDiv.appendChild(uList);
