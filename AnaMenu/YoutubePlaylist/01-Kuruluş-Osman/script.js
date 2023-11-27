@@ -1,64 +1,192 @@
-"use strict";
+// Load Youtube IFrame Player API code asynchronously.
+var tag = document.createElement("script"); //Add a script tag
+tag.src = "https://www.youtube.com/iframe_api"; //Set the SRC to get the API
+var firstScriptTag = document.getElementsByTagName("script")[0]; //Find the first script tag in the html
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); //Put this script tag before the first one
 
-var player 					  = document.getElementById('player');
-var playlistThumb 		= document.getElementById('playlistThumb');
+var player; //The Youtube API player
+var ypt_player = document.getElementById("player");
+var playlistID = ypt_player.getAttribute("data-pl");
+var ypt_thumbs = document.getElementById("ypt_thumbs");
+var nowPlaying = "ypt-now-playing"; //For marking the current thumb
+var nowPlayingClass = "." + nowPlaying;
+var ypt_index = 0; //Playlists begin at the first video by default
 
-var apiUrl 			= '//www.googleapis.com/youtube/v3/playlistItems';
-var apiKey	 		= 'AIzaSyBmn9tD95L_dbCfy_VQ33kwoaQCo8l5IN4';
-var playlistId 	= 'PLEI1XV90ckT4dajk0mfOKc9ZL0_CWlH8j';
-
-getPlaylistData(playlistId, apiUrl, apiKey);
-
-// Makes a single request to Youtube Data API
-function getPlaylistData(playlistID, apiUrl, apiKey) {  
-  var options = {
-    part: "snippet",
-    playlistId: playlistId,
-    key: apiKey,
-    maxResults: 25
+function getPlaylistData(playlistID, video_list, page_token) {
+  //Makes a single request to Youtube Data API
+  var apiKey = "AIzaSyC7yXFAi4zCBx7lXUqYxmmvOV8doIKXp_Y"; // Don't steal this! There is a limit set of 150 hits per day.
+  var theUrl =
+    "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails,status" +
+    "&maxResults=" +
+    50 + //Can be anything from 1-50
+    "&playlistId=" +
+    playlistID +
+    "&key=" +
+    apiKey;
+  if (page_token) {
+    theUrl += "&pageToken=" + page_token;
+  } //If there is page token, start there
+  var xmlHttp = null;
+  xmlHttp = new XMLHttpRequest();
+  xmlHttp.open("GET", theUrl, true);
+  xmlHttp.send(null);
+  xmlHttp.onload = function (e) {
+    //when the request comes back
+    buildJSON(xmlHttp.responseText, video_list, playlistID); //send the data to buildJSON
   };
-  var defautVideoIndex = 0;
-  
-  $.getJSON(apiUrl, options, function(response) {
-    var item = response.items[defautVideoIndex];
-    var medium = item.snippet.thumbnails.medium;
-    var videoId = item.snippet.resourceId.videoId;
-    
-    player.innerHTML = '<iframe id="iframe-player" data-id="' + videoId + '" width="100%" height="100%" src="//www.youtube.com/embed/' + videoId + '?rel=0;enablejsapi=1&version=3&playerapiid=ytplayer1" frameborder="0" sandbox="allow-scripts allow-same-origin allow-presentation"></iframe>';
-    
-    for (var i = 0; i < response.items.length; i++) {
-          item = response.items[i];
-          medium = item.snippet.thumbnails.medium;
-          videoId = item.snippet.resourceId.videoId;
-    	$(playlistThumb).append(
-      	'<li data-vid="'+ videoId +'"><img src="'+ medium.url +'" width="'+ medium.width +'" height="'+ medium.height +'" />'+
-          '<button class="ytp-large-play-button ytp-button" aria-label="Play">'+
-						'<svg height="100%" version="1.1" viewBox="0 0 68 48" width="100%">'+
-              '<path class="ytp-md-pay-btn" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8"></path>'+
-              '<path d="M 43,24 30,17 30,31" fill="#FFF"></path>'+
-        		'</svg>'+
-         	'</button>'+
-         '</li>'
-       );
+}
+
+function buildJSON(response, list, playlistID) {
+  //Takes the text response and adds it to any existing JSON data
+  var results = JSON.parse(response); //Parse it
+  if (!list) {
+    list = [];
+  } //If there is no list to add to, make one
+  list.push.apply(list, results.items); //Add JSON data to the list
+  if (results.nextPageToken) {
+    //If the results included a page token
+    getPlaylistData(playlistID, list, results.nextPageToken); //Create another data API request including the current list and page token
+  } else {
+    //If there is not a next-page token
+    buildHTML(list); //Send the JSON data to buildHTML
+  }
+}
+
+function buildHTML(data) {
+  //Turns JSON data into HTML elements
+  var list_data = ""; //A string container
+  for (i = 0; i < data.length; i++) {
+    //Do this to each item in the JSON list
+    var item = data[i].snippet; //Each Youtube playlist item snippet
+    //var details = data[i].contentDetails; //Playlist API does not list videos durations
+    if (!item.thumbnails.medium) {
+      continue;
+    } //private videos do no reveal thumbs, so skip them
+    if (item.title.split("|")[0].length > 50) {
+      ellipsis = "...";
+    } else {
+      ellipsis = "";
     }
-    $(document).on('click', '[data-vid]', function() {
-        
- 		   	videoId = this.dataset.vid;
-        if (!videoId) return;
-        var iframe = document.getElementById('iframe-player');
-        if (!iframe) return;
-        if (iframe.dataset.id === videoId) return;
-         player.innerHTML = '<iframe id="iframe-player" data-id="' + videoId + '" width="100%" height="100%" onload="playYtpVideo()" src="https://www.youtube.com/embed/' + videoId + '?rel=0;enablejsapi=1&version=3&playerapiid=ytplayer1" frameborder="0" sandbox="allow-scripts allow-same-origin allow-presentation"></iframe>';
-        $(player).append('<div class="save_spinner"></div>');
-    });
-
-	});
+    list_data +=
+      '<div class="yt-thumb carousel-cell" data-ypt-index="' +
+      i +
+      '"><div class="yt-single"><div class="yt-img"><img class="img-fluid" alt="' +
+      item.title.replace(/"/g, "'") +
+      '" src="' +
+      item.thumbnails.medium.url +
+      '"/></div><div class="yt-single-description p-3 pt-2"><div class="date font-body mb-3"><i class="fas fa-calendar-alt me-2"></i></i><span>' +
+      moment(data[i].contentDetails.videoPublishedAt).format("MMMM Do YYYY") +
+      '</span></div><h4 class="yt-title">' +
+      item.title.split("|")[0].substring(0, 50) +
+      ellipsis +
+      "</h4></div></div></div>"; //create an element and add it to the list
+  }
+  ypt_thumbs.innerHTML = list_data; //After the for loop, insert that list of links into the html
 }
 
+// function yptThumbHeight(){
+//   ypt_thumbs.style.height = document.getElementById('player').clientHeight + 'px'; //change the height of the thumb list
+//   //breaks if ypt_player.clientHeight + 'px';
+// }
 
-function playYtpVideo() {
-  var iframe = document.getElementById('iframe-player');
-  var spinner = document.querySelector('.save_spinner');
-  spinner.remove();
-  iframe.contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+function onPlayerReady(event) {
+  //Once the player is ready...
+  //yptThumbHeight(); //Set the thumb containter height
 }
+
+getPlaylistData(playlistID);
+
+//Once the Youtube Iframe API is ready...
+window.onYouTubeIframeAPIReady = function () {
+  // Creates an <iframe> (and YouTube player) after the API code downloads. must be globally available
+  player = new YT.Player("player", {
+    height: "360",
+    width: "640",
+    playerVars: {
+      listType: "playlist",
+      list: playlistID,
+      autoplay: 0,
+      showinfo: 0,
+      modestbranding: 0,
+      cc_load_policy: 0,
+      rel: 0
+    },
+    events: {
+      onReady: onPlayerReady,
+      onStateChange: onPlayerStateChange
+    }
+  });
+
+  // When the player does something...
+  function onPlayerStateChange(event) {
+    //Let's check on what video is playing
+    var currentIndex = player.getPlaylistIndex();
+    var the_thumbs = ypt_thumbs.getElementsByClassName("yt-thumb");
+    var currentThumb = the_thumbs[currentIndex];
+
+    if (event.data == YT.PlayerState.PLAYING) {
+      //A video is playing
+
+      for (var i = 0; i < the_thumbs.length; i++) {
+        //Loop through the thumbs
+        the_thumbs[i].className = "yt-thumb carousel-cell"; //Remove nowplaying from each thumb
+      }
+
+      currentThumb.className = "yt-thumb carousel-cell " + nowPlaying; //this will also erase any other class belonging to the li
+      //need to do a match looking for now playing
+    }
+
+    //if a video has finished, and the current index is the last video, and that thumb already has the nowplaying class
+    if (
+      event.data == YT.PlayerState.ENDED &&
+      currentIndex == the_thumbs.length - 1 &&
+      the_thumbs[currentIndex].className == nowPlaying
+    ) {
+      jQuery.event.trigger("playlistEnd"); //Trigger a global event
+    }
+  } //function onPlayerStateChange(event)
+
+  //When the user changes the window size...
+  // window.addEventListener('resize', function(event){
+  //   yptThumbHeight(); //change the height of the thumblist
+  // });
+
+  //When the user clicks an element with a playlist index...
+  jQuery(document).on(
+    "click",
+    '[data-ypt-index]:not(".ypt-now-playing")',
+    function (e) {
+      //click on a thumb that is not currently playing
+      ypt_index = Number(jQuery(this).attr("data-ypt-index")); //Get the ypt_index of the clicked item
+      if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
+        //if IOS
+        player.cuePlaylist({
+          //cue is required for IOS 7
+          listType: "playlist",
+          list: playlistID,
+          index: ypt_index,
+          suggestedQuality: "hd720" //quality is required for cue to work, for now
+          // https://code.google.com/p/gdata-issues/issues/detail?id=5411
+        }); //player.cuePlaylist
+      } else {
+        //yay it's not IOS!
+        player.playVideoAt(ypt_index); //Play the new video, does not work for IOS 7
+      }
+      jQuery(nowPlayingClass).removeClass(nowPlaying); //Remove "now playing" from the thumb that is no longer playing
+      //When the new video starts playing, its thumb will get the now playing class
+    }
+  ); //jQuery(document).on('click','#ypt_thumbs...
+};
+
+
+// Set Flickity Slider once YouTube Thumbnails have loaded
+setTimeout(function () {
+  var elem = document.querySelector(".youtube-carousel");
+  var flkty = new Flickity(elem, {
+    // options
+    cellAlign: "left",
+    wrapAround: true,
+    draggable: false,
+    pageDots: false
+  });
+}, 1000);
