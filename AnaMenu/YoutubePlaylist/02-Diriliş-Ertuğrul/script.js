@@ -14,7 +14,7 @@ App.YoutubePlaylistLoader = {
   results: null,
 
   params: {
-    playlistId: 'PLCuVYHE7O2A0XGkdhaU_M4-IkEIq5hSOQ',
+    playlistId: 'PLEI1XV90ckT4dajk0mfOKc9ZL0_CWlH8j',
     key: 'AIzaSyCO9WXh_74m7ATK50P0vegWRQwjVADShmA',
     part: 'contentDetails,snippet',
     pageToken: null
