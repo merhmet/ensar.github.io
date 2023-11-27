@@ -2,21 +2,23 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - YouTube playlist viewer</title>
+  <title>CodePen - Youtube playlist - Youtube api 3</title>
   <link rel="stylesheet" href="./style.css">
 
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<div id="results"></div>
-
-<br>
-
-<button type="button"onclick="App.YoutubePlaylistLoader.previousPage()">Geri</button>
-
-<button type="button" onclick="App.YoutubePlaylistLoader.nextPage()">Ileri</button>
+<div id="wrapper" class="playlist-wrapper">
+     <div id="player" class="player-wrapper">
+       <div class="save_spinner"></div>
+    </div>
+    <div class="playlist-thumb-container">
+      <ul id="playlistThumb" class="playlist-thumb"></ul>
+    </div>
+</div>
 <!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script><script  src="./script.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://www.youtube.com/iframe_api'></script><script  src="./script.js"></script>
 
 </body>
 </html>

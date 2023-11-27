@@ -1,112 +1,64 @@
-var App = App || {};
+"use strict";
 
-App.YoutubePlaylistLoader = {
-  
-  resultsTarget: null,
-  
-  xhr: null,
-  
-  apiBase: 'https://www.googleapis.com/youtube/v3',
-  
-  prevPageToken: null,
-  nextPageToken: null,
-  
-  results: null,
+var player 					  = document.getElementById('player');
+var playlistThumb 		= document.getElementById('playlistThumb');
 
-  params: {
-    playlistId: 'PLCuVYHE7O2A0XGkdhaU_M4-IkEIq5hSOQ',
-    key: 'AIzaSyCO9WXh_74m7ATK50P0vegWRQwjVADShmA',
-    part: 'contentDetails,snippet',
-    pageToken: null
-  },
+var apiUrl 			= '//www.googleapis.com/youtube/v3/playlistItems';
+var apiKey	 		= 'AIzaSyBmn9tD95L_dbCfy_VQ33kwoaQCo8l5IN4';
+var playlistId 	= 'PLEI1XV90ckT4dajk0mfOKc9ZL0_CWlH8j';
+
+getPlaylistData(playlistId, apiUrl, apiKey);
+
+// Makes a single request to Youtube Data API
+function getPlaylistData(playlistID, apiUrl, apiKey) {  
+  var options = {
+    part: "snippet",
+    playlistId: playlistId,
+    key: apiKey,
+    maxResults: 25
+  };
+  var defautVideoIndex = 0;
   
-  init: function(resultsTarget) {
-    var _this = App.YoutubePlaylistLoader;
+  $.getJSON(apiUrl, options, function(response) {
+    var item = response.items[defautVideoIndex];
+    var medium = item.snippet.thumbnails.medium;
+    var videoId = item.snippet.resourceId.videoId;
     
-    _this.resultsTarget = resultsTarget;
-    _this.resultsTarget.on('click', '.youtube-result', _this.onResultClick);
+    player.innerHTML = '<iframe id="iframe-player" data-id="' + videoId + '" width="100%" height="100%" src="//www.youtube.com/embed/' + videoId + '?rel=0;enablejsapi=1&version=3&playerapiid=ytplayer1" frameborder="0" sandbox="allow-scripts allow-same-origin allow-presentation"></iframe>';
     
-    _this.getPlaylistItems();
-  },
-  
-  previousPage: function() {
-    var _this = App.YoutubePlaylistLoader;
-    if ( !_this.prevPageToken ) {
-      return false;
+    for (var i = 0; i < response.items.length; i++) {
+          item = response.items[i];
+          medium = item.snippet.thumbnails.medium;
+          videoId = item.snippet.resourceId.videoId;
+    	$(playlistThumb).append(
+      	'<li data-vid="'+ videoId +'"><img src="'+ medium.url +'" width="'+ medium.width +'" height="'+ medium.height +'" />'+
+          '<button class="ytp-large-play-button ytp-button" aria-label="Play">'+
+						'<svg height="100%" version="1.1" viewBox="0 0 68 48" width="100%">'+
+              '<path class="ytp-md-pay-btn" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8"></path>'+
+              '<path d="M 43,24 30,17 30,31" fill="#FFF"></path>'+
+        		'</svg>'+
+         	'</button>'+
+         '</li>'
+       );
     }
-    _this.params.pageToken = _this.prevPageToken;
-    _this.getPlaylistItems();
-  },
-  
-  nextPage: function() {
-    var _this = App.YoutubePlaylistLoader;
-    if ( !_this.nextPageToken ) {
-      return false;
-    }
-    _this.params.pageToken = _this.nextPageToken;
-    _this.getPlaylistItems();
-  },
-  
-  getPlaylistItems: function() {
-    var _this = App.YoutubePlaylistLoader;
-    
-    _this.resultsTarget.html('');
-    
-    _this.xhr && _this.xhr.abort();
-    
-    _this.xhr = $.ajax({
-      url: _this.apiBase + '/playlistItems',
-      data: _this.params,
-      success: function(response) {
+    $(document).on('click', '[data-vid]', function() {
         
-        _this.prevPageToken = response.prevPageToken;
-        _this.nextPageToken = response.nextPageToken;
-        
-        if ( response.items ) {
-          _this.processResults(response.items);
-        }
-      },
-      error: function(xhr, errorThrown, textStatus) {
-        console.log(errorThrown);
-      }
+ 		   	videoId = this.dataset.vid;
+        if (!videoId) return;
+        var iframe = document.getElementById('iframe-player');
+        if (!iframe) return;
+        if (iframe.dataset.id === videoId) return;
+         player.innerHTML = '<iframe id="iframe-player" data-id="' + videoId + '" width="100%" height="100%" onload="playYtpVideo()" src="https://www.youtube.com/embed/' + videoId + '?rel=0;enablejsapi=1&version=3&playerapiid=ytplayer1" frameborder="0" sandbox="allow-scripts allow-same-origin allow-presentation"></iframe>';
+        $(player).append('<div class="save_spinner"></div>');
     });
-  },
-  
-  processResults: function(results) {
-    var _this = App.YoutubePlaylistLoader;
-    _this.results = results;
-    
-    var resultsHTML = '';
-    
-    for ( var i = 0; i < _this.results.length; i++ ) {
-      var result = _this.results[i];
-      resultsHTML += [
-        '<a href="javascript:void(0)" data-video-id="',
-          result.contentDetails.videoId,
-          '" class="youtube-result">',
-          '<img src=' + (
-            result.snippet.thumbnails.medium ?
-              result.snippet.thumbnails.medium.url :
-              result.snippet.thumbnails.default.url
-          ) + '>',
-          '<strong>' + result.snippet.title + '</strong>',
-          '<span class="clearfix"></span>',
-        '</a>'
-       ].join('');
-    }
-    
-    _this.resultsTarget.html(resultsHTML);
-    
-  },
-  
-  onResultClick: function() {
-    var _this = App.YoutubePlaylistLoader;
-    var videoId = $(this).data('video-id');
-    window.open('https://www.youtube.com/watch?v=' + videoId, '_system');
-  }
-  
-};
 
-$(function() {
-  App.YoutubePlaylistLoader.init($('#results'));
-});
+	});
+}
+
+
+function playYtpVideo() {
+  var iframe = document.getElementById('iframe-player');
+  var spinner = document.querySelector('.save_spinner');
+  spinner.remove();
+  iframe.contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+}
